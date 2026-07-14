@@ -40,7 +40,7 @@ This case study answers the following business questions:
 
 ## 📈 Product & Channel Profitability
 
-![Product & Channel Profitability](Images/01-product-channel-profitability.png)
+
 
 ### Discounting Impact
 
@@ -49,7 +49,7 @@ This case study answers the following business questions:
 
 ## 💰 Discounting Impact
 
-![Discounting Impact](Images/02-discounting-impact.png)
+
 
 
 ### SKU Rationalization
@@ -61,7 +61,7 @@ This case study answers the following business questions:
 
 ## 📦 SKU Rationalization
 
-![SKU Rationalization](Images/03-sku-rationalization.png)
+
 
 ## 🔍 Methodology
 
