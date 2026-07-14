@@ -3,7 +3,12 @@
 
 A real-world business analytics case study focused on evaluating product profitability, sales channel performance, discounting strategies, and SKU rationalization using Microsoft Excel.
 
+<p align="center">
+  <img src="hero-banner.png" alt="Sales Profitability Business Case Study Banner" width="100%">
+</p>
+
 ---
+
 ## 📌 Project Summary
 
 | Item | Details |
