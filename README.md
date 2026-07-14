@@ -1,8 +1,18 @@
+
 # 📊 Sales Profitability Business Case Study
 
 A real-world business analytics case study focused on evaluating product profitability, sales channel performance, discounting strategies, and SKU rationalization using Microsoft Excel.
 
 ---
+## 📌 Project Summary
+
+| Item | Details |
+|------|---------|
+| Project Type | Real-world Business Case Study |
+| Domain | Sales Analytics |
+| Tool | Microsoft Excel |
+| Analysis Areas | Product, Channel, Discount, SKU |
+| Deliverables | Dashboard, Presentation, Business Recommendations |
 
 ## 💼 Business Problem
 
