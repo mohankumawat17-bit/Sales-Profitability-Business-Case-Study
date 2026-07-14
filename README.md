@@ -177,3 +177,5 @@ I enjoy solving real-world business problems through data analysis, interactive 
 ---
 
 > **Turning Data into Business Decisions.**
+
+This repository focuses on the analytical methodology and business thinking rather than sharing confidential business data.
