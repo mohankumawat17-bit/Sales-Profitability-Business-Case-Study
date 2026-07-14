@@ -38,10 +38,19 @@ This case study answers the following business questions:
 - Which sales channels are the most and least profitable?
 - Which SKUs have more than 50% Gross Margin % in Sales Channel 6 but less than 20% in Sales Channel 4?
 
+## 📈 Product & Channel Profitability
+
+![Product & Channel Profitability](images/01-product-channel-profitability.png)
+
 ### Discounting Impact
 
 - How can a fair discounting methodology be developed using historical sales data?
 - What business factors should be considered while defining future discount ranges?
+
+## 💰 Discounting Impact
+
+![Discounting Impact](images/02-discounting-impact.png)
+
 
 ### SKU Rationalization
 
@@ -49,6 +58,10 @@ This case study answers the following business questions:
 - Which sales channel contains the highest number of loss-making SKUs?
 - Which customers generate negative total margins despite high sales?
 - What is the median and 75th percentile Gross Margin % across sales channels?
+
+## 📦 SKU Rationalization
+
+![SKU Rationalization](images/03-sku-rationalization.png)
 
 ## 🔍 Methodology
 
